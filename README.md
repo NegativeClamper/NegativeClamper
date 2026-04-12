@@ -8,13 +8,13 @@ Building cloud-native ELT/ETL pipelines and wrangling messy REST APIs into relat
 ### ❖ CORE STACK
 * **Languages:** Python 3.x, SQL
 * **Data Engineering:** Pandas, SQLAlchemy, JSON Parsing, REST APIs
-* **Cloud & Storage:** Snowflake, PostgreSQL, AWS
+* **Cloud & Storage:** Snowflake, PostgreSQL, AWS, Azure
 * **Architecture:** ELT / ETL Pipelines, Data Warehousing, NoSQL-to-SQL 
 
 ---
 
 ### ❖ RECENT ENGINEERING
-**[OpenFDA Snowflake ELT](https://github.com/NegativeClamper/your-repo-link)**
+**[OpenFDA Snowflake ELT](https://github.com/NegativeClamper/OpenFDA-drugenforcement-ELT-pipeline)**
 * Engineered a modern ELT architecture extracting raw government JSON payloads.
 * Vaulted credentials and loaded unstructured data into a Snowflake Internal Stage.
 * Utilized native `LATERAL FLATTEN` cloud compute to bypass Pandas and transform documents into a relational schema.
@@ -25,4 +25,4 @@ Building cloud-native ELT/ETL pipelines and wrangling messy REST APIs into relat
 * Pushed 2D tables to a live serverless Neon PostgreSQL database.
 
 ---
-*Hyderabad, IN • [LinkedIn](https://linkedin.com/in/your-profile) • [Contact](mailto:your-email@gmail.com)*
+*Hyderabad, IN • [LinkedIn](https://linkedin.com/in/ujjwalreddy3459) • [Contact](mailto:ujjwal.r.annedla@gmail.com)*
