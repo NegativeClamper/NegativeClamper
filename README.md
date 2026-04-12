@@ -1,18 +1,14 @@
-# Hi, I'm Ujjwal 👋
+## Ujjwal 
+**Python Developer & Data Engineer**
 
-I am a Python Developer specializing in Data Engineering, MLOps, and Cloud Architecture. I build robust data ingestion engines that solve the NoSQL-to-SQL impedance mismatch.
+Building cloud-native data pipelines and wrangling messy APIs into relational architecture.
 
-### 🛠️ Tech Stack & Tools
-* **Languages:** Python, SQL
-* **Data Engineering:** Pandas, SQLAlchemy, REST APIs, JSON Parsing
-* **Cloud & Databases:** Snowflake, PostgreSQL (Neon), AWS
-* **Concepts:** ETL / ELT Pipelines, Data Warehousing, API Pagination
+**Core** // Python • SQL • Pandas • REST  
+**Cloud** // Snowflake • PostgreSQL • AWS  
+**Focus** // Enterprise ELT/ETL • Data Modeling • NoSQL-to-SQL
 
-### 🚀 What I'm Working On
-* Architecting a production-grade ELT pipeline extracting OpenFDA Drug Enforcement data directly into a **Snowflake** data warehouse.
-* Building an automated ETL extraction engine using Python and **PostgreSQL**.
+---
 
-### 📈 GitHub Stats
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=NegativeClamper&show_icons=true&theme=tokyonight" alt="Ujjwal's GitHub Stats" />
+<div align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=NegativeClamper&theme=transparent&hide_border=true&show_icons=true&title_color=ffffff&text_color=8b949e&icon_color=ffffff" alt="GitHub Stats" />
 </div>
