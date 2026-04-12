@@ -1,14 +1,28 @@
-## Ujjwal 
-**Python Developer & Data Engineer**
+# UJJWAL REDDY
+> Python Developer & Data Engineer
 
-Building cloud-native data pipelines and wrangling messy APIs into relational architecture.
-
-**Core** // Python • SQL • Pandas • REST  
-**Cloud** // Snowflake • PostgreSQL • AWS  
-**Focus** // Enterprise ELT/ETL • Data Modeling • NoSQL-to-SQL
+Building cloud-native ELT/ETL pipelines and wrangling messy REST APIs into relational architecture. 
 
 ---
 
-<div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=NegativeClamper&theme=transparent&hide_border=true&show_icons=true&title_color=ffffff&text_color=8b949e&icon_color=ffffff" alt="GitHub Stats" />
-</div>
+### ❖ CORE STACK
+* **Languages:** Python 3.x, SQL
+* **Data Engineering:** Pandas, SQLAlchemy, JSON Parsing, REST APIs
+* **Cloud & Storage:** Snowflake, PostgreSQL, AWS
+* **Architecture:** ELT / ETL Pipelines, Data Warehousing, NoSQL-to-SQL 
+
+---
+
+### ❖ RECENT ENGINEERING
+**[OpenFDA Snowflake ELT](https://github.com/NegativeClamper/your-repo-link)**
+* Engineered a modern ELT architecture extracting raw government JSON payloads.
+* Vaulted credentials and loaded unstructured data into a Snowflake Internal Stage.
+* Utilized native `LATERAL FLATTEN` cloud compute to bypass Pandas and transform documents into a relational schema.
+
+**[OpenFDA PostgreSQL ETL](https://github.com/NegativeClamper/FDA-Adverse-Events-Pipeline)**
+* Architected an ingestion engine to resolve NoSQL-to-SQL impedance mismatch.
+* Built branching transformation layers using Python to prevent Cartesian memory explosions.
+* Pushed 2D tables to a live serverless Neon PostgreSQL database.
+
+---
+*Hyderabad, IN • [LinkedIn](https://linkedin.com/in/your-profile) • [Contact](mailto:your-email@gmail.com)*
